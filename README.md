@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Urooj Ashfaq</h1>
 <h3 align="center">A Machine Learning Enthusiast from Pakistan</h3>
 
-- 🔭 I’m currently working on **A RAG chatbot**
+- 🔭 I’m currently working on **Chronicalbot: A Historical Event Explorer chatbot**
 
 - 🌱 I’m currently learning **DSA. Generative AI and Machine Learning**
 
