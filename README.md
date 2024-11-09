@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Urooj Ashfaq</h1>
-<h4 align="center">A Machine Learning and AI Enthusiast, exploring the world of data-driven insights and intelligent solutions</h4>
+<h4 align="center">A Machine Learning and AI Enthusiast, exploring the world of data-driven insights and intelligent solutions</h4> <br>
 
 - 🔭 I’m currently working on **Chronicalbot: A Historical Event Explorer chatbot**
 
