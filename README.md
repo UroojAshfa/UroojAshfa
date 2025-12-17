@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **uroojashfaq8@gmail.com**
 
-- ⚡ Fun fact **I love to read so naturally my sarcasm is the most fun thing about me**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
